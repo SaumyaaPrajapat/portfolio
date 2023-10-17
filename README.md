@@ -1,3 +1,5 @@
+<img width="755" alt="portfolio" src="https://github.com/SaumyaaPrajapat/portfolio/assets/103128269/7546a1b3-2981-49eb-aad6-50738bd7578e">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
